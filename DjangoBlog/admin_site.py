@@ -3,7 +3,7 @@
 
 
 """
-@version: ??
+@version: 
 @author: liangliangyy
 @license: MIT Licence 
 @contact: liangliangyy@gmail.com
